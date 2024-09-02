@@ -144,15 +144,19 @@ Approval and finally, merging of request.
 Forking a repository on GitHub is a way to create a personal copy of someone else’s repository under your own GitHub account. This allows you to freely experiment with changes without affecting the original project. Here’s a breakdown of the concept and its differences from cloning:
 
 Forking vs. Cloning
+
 Forking:
 
 Creates a copy on GitHub: When you fork a repository, it creates a copy of the original repository (also known as the upstream repository) on your GitHub account.
+
 Independent changes: You can make changes to your forked repository without affecting the original repository. If you want to contribute back to the original project, you can submit a pull request.
+
 Syncing required: Changes made to the original repository are not automatically reflected in your fork. You need to manually sync your fork with the upstream repository to get the latest updates.
 
 Cloning:
 
 Creates a local copy: Cloning a repository copies it to your local machine. This allows you to work on the project offline.
+
 Direct updates: When you clone a repository, you can pull updates directly from the original repository to keep your local copy up-to-date.
 
 No GitHub copy: Cloning does not create a copy on your GitHub account; it only exists on your local machine.
@@ -160,7 +164,9 @@ No GitHub copy: Cloning does not create a copy on your GitHub account; it only e
 Scenarios Where Forking is Useful
 
 Contributing to Open Source Projects:
+
 Forking is commonly used in open source projects. You can fork a repository, make changes, and then submit a pull request to propose your changes to the original project.
+
 Experimenting with changes.
 
 ## Examine the importance of issues and project boards on GitHub. How can they be used to track bugs, manage tasks, and improve project organization? Provide examples of how these tools can enhance collaborative efforts.
